@@ -21,3 +21,5 @@ Follow the [LINK](dual-token-model.ipynb).
 ## Github Release
 
 Follow the [LINK](https://github.com/vang1ong7ang/DualTokenModel/releases).
+
+*Interactive figures are lost if you open the article in github preview.*
